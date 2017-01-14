@@ -1,0 +1,202 @@
+
+<ul class="navibar">
+  <li><a href="./index.html" class="navibar" >Schedule</a></li>
+  <li><a href="./syllabus.html" class="current" >Syllabus</a></li>
+  <li><a href="./homework.html" class="navibar" >Homework</a></li>
+</ul>
+
+
+<!--- Table Formatting Modifications --->
+<style>
+.table {
+  width: 35%;
+  margin-left: 0%;
+  border: 1px solid lightgray;
+  font-size : 78%;
+}
+th {   
+  background-color: #dcdcdc;
+}
+td {
+  background-color: white;
+}
+</style>
+
+
+
+<!--- Start Main Page --->
+ <br><br>
+
+### Course Info
+
+ST 597                    |                |
+------------------------- | --------------- 
+**Class Time:**           | M,W 2:00pm-3:15  
+**Class Location:**       | Bashinsky 3    
+
+**Instructor:**     | Dr\. Michael D. Porter  
+------------------------- | --------------- 
+**Office:**         | 348 Alston Hall
+**Email:**          | mporter {at} cba.ua.edu    
+**Office Hours:**   | Wednesdays 10:00am-11:15 <br> (and by appt.)
+
+**TA:**                   | Ms\. Huan Li
+------------------------- | --------------- 
+**Office:**               | BD 321
+**Email:**                | hli41 {at} crimson.ua.edu  
+**Office Hours:**         | Mondays 3:15p-4:15 <br> Fridays 11:00am-12:00 <br> (and by appt.)
+                          
+
+----
+
+### Course Prerequisites:
+Students taking this course should be familiar with the concepts from a graduate level introductory statistics course that includes linear regression (e.g., ST 509 or ST 560). Familiarity with basic programming concepts would be helpful, but not required. 
+
+<!---
+In case you are looking for something to do over winter break: 
+
+- Get introduced to R (for free) with [Try R](http://tryr.codeschool.com).
+- Brush up on statistics. There are many free resources on the web (e.g., [Introduction to Statistical Thinking](http://pluto.huji.ac.il/~msby/StatThink/IntroStat.pdf) or [OpenIntro Statistics](http://www.openintro.org/)). 
+--->
+
+----
+
+### Course Description:
+
+This course is an introduction to data analytics using the free and open-source software R. 
+You will learn about the basics of exploratory and descriptive data analysis. 
+We will cover things like obtaining, cleaning, combining, and wrangling the data into a more usable form. 
+We will learn how to break up a large dataset into manageable pieces and then use a variety of quantitative and visual tools to summarize and learn about it. 
+The challenges of big data (e.g., size, streaming data, mixed variable types) will be addressed throughout the course. As an introductory course, focus will be on understanding basic concepts and how to implement them in R.
+
+
+----
+
+### Student Learning Objectives:
+Students completing this course should be able to use R to: (i) manipulate and extract information from data (ii) make informative, and pretty, plots 
+(iii) properly apply several data analytics methods and (iv) reproduce and present results from data analysis. 
+Effective communication of procedures and results is an important aspect of the course.
+
+
+----
+
+### Textbooks:
+
+#### Required
+
+- *[R for Data Science](http://r4ds.had.co.nz/)* by Hadley Wickham and Garrett Grolemund 
+    - Free online version: <http://r4ds.had.co.nz/>
+    - Paperback should be released soon
+
+#### Optional
+
+- *[R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)* 
+- *R in Action* by Kabacoff
+- *R for Everyone: Advanced Analytics and Graphics* by Jarad Lander
+- *R Cookbook* by Paul Teetor 
+- *ggplot2 (2nd edition)* by Hadley Wickham <http://ggplot2.org/book/>
+- *R Graphics Cookbook* by Winston Chang
+    - some online portions: <http://www.cookbook-r.com/Graphs/>
+
+
+
+----
+
+### Software:
+This course requires the statistical software R. 
+
+- R (<http://cran.us.r-project.org>) is a free command-line based statistical language.
+- RStudio is a free IDE for R (<http://www.rstudio.com/ide>).
+- Since class meets in a computer lab, the software will be available on the class computers. But you will need to use these programs for assignments, so make sure to get them loaded on your personal computers too. 
+
+Both of these programs are free and cross-platform (Windows, Mac, Linux). Install R first, then RStudio. Use the latest versions of each. 
+
+----
+
+### Course Assessment:
+<!--- 
+The course grade will be based on around 6 homeworks (30\%), around 15 labs (15\%), midterm exam (15\%), and a final project (presentation and report) (40\%). 
+--->
+
+The course grade will be based on homeworks, in-class labs, midterm exams, and a final project (presentation and report).
+
+A: 90-100%, B: 80-89%, C: 70-79%, etc.
+
+
+- **Homework: 40%**
+    - DataCamp Assignments
+
+- **In-Class Participation: 5%**
+    - Labs
+    - Discussion
+    
+- **Midterm: 25%**
+    - Individual
+
+- **Project: 30%**
+    - Groups of 3 
+    - Presentation (15\%)
+    - Report (15\%)
+    
+
+
+-----
+
+### Course Outline: 
+
+- Introduction to R
+    - R and Rstudio
+    - Basics of R
+    - Reading Data into R
+    - Advanced Data Structures
+    - Loops, Control Statements, Functions
+    
+- Data and Data Wrangling
+    - Transforming Data
+    - Reshaping Data
+    - Cleaning Data
+    - Working with spatial, temporal, text, and graph data
+
+- Visualization
+    -	base graphics
+    - ggplot2 graphics
+    - interactive graphics 
+
+- Other Analytics
+    <!-- - Regression -->
+    <!-- - Boosting -->
+    - Text mining
+    - PageRank
+    <!-- - Simulation -->
+
+----
+
+### Academic Calendar:
+Important dates for the semester can be found on the academic calendar: 
+<http://registrar.ua.edu/academiccalendar/>
+
+----
+
+### Severe Weather Guidelines:
+<http://uanews.ua.edu/weather>
+
+----
+
+### Disability Statement:
+If you are registered with the Office of Disability Services, please make an appointment with me as soon as possible to discuss any course accommodations that may be necessary.
+If you have a disability, but have not contacted the Office of Disability Services, please call (205) 348-4285 (Voice) or (205) 348-3081 (TTY) or visit 1000 Houser Hall to register for services. Students who may need course adaptations because of a disability are welcome to make an appointment to see me during office hours. Students with disabilities must be registered with the Office of Disability Services, 1000 Houser Hall, before receiving academic adjustments.
+
+
+----
+
+### Policy on Academic Misconduct:
+All students in attendance at The University of Alabama are expected to be honorable and to observe standards of conduct appropriate to a community of scholars. The University of Alabama expects from its students a higher standard of conduct than the minimum required to avoid discipline. At the beginning of each semester and on examinations and projects, the professor will require that each student sign the Academic Honor Pledge. 
+See the [Code of Student Conduct](http://policies.ua.edu/conduct.html) for more information.
+
+
+
+
+
+
+
+
