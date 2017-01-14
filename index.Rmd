@@ -1,0 +1,113 @@
+
+<ul class="navibar">
+  <li><a href="./index.html" class="current" >Schedule</a></li>
+  <li><a href="./syllabus.html" class="navibar" >Syllabus</a></li>
+  <li><a href="./homework.html" class="navibar" >Homework</a></li>
+</ul>
+
+
+
+<!--- Start Main Page --->
+<br><br>
+
+### Schedule
+
+-----------
+
+--------------------------------------------------------------------------------
+Class   Date     Day   Topic                        Reading          Notes
+                                                    ([R4DS])
+-----   ------   ----  ---------------------------- -------------- -------------
+1       Jan 11   Wed   [Intro]    
+
+        Jan 16   Mon   <font color="orange">                                
+                       *No Class: MLK Jr Day* 
+                       </font>   
+        
+2       Jan 18   Wed   R and RStudio				        1; 2   		      **HW 1 Due**
+             
+3       Jan 23   Mon   Data Visualization I 		    3.1-3.6         **HW 2 Due**
+
+4       Jan 25   Wed   Data Visualization II        3.7-3.10    
+       
+5       Jan 30   Mon   Data Transformation I	      5.1-5.5         **HW 3 Due**           
+
+6       Feb 01   Wed   Data Transformation II	      5.6-5.7
+                   
+7       Feb 06   Mon   Data Visualization III       7               **HW 4 Due**
+
+8       Feb 08   Wed   Data Explore Challenge                   
+  
+9       Feb 13   Mon   Special Guest: Joshua        4; 6; 8         **HW 5 Due**
+                       Jones from 
+                       [Strategywise](
+                       http://strategywise.com/)
+                     
+10      Feb 15   Wed   R Basics I					          10; 
+                                                    20.1-20.4
+
+11      Feb 20   Mon   R Basics II                  20.5-20.7;      **HW 6 Due**
+                                                    15         
+        
+12      Feb 22   Wed   Data Mgmt Challenge                           
+       
+13      Feb 27   Mon   Relational Data				      13	            **HW 7 Due**
+
+14      Mar 01   Wed   Programming                  19; 
+                                                    21.1-21.4
+
+15      Mar 06   Mon   Exam Review                                  **HW 8 Due**
+
+16      Mar 08   Wed   Midterm Exam
+                       
+        Mar 13   Mon   <font color="orange"> 
+                       *No Class: Spring Break* 
+                       </font>  
+        
+        Mar 15   Wed   <font color="orange"> 
+                       *No Class: Spring Break* 
+                       </font>  
+
+17      Mar 20   Mon   Data Import I                11.1-11.3
+
+18      Mar 22   Wed   Data Import II   			      11.4-11.6			
+
+19      Mar 27   Mon   Tidy Data                  	12              **HW 9 Due**      
+
+20      Mar 29   Wed   Spatial Data I     			
+
+21      Apr 03   Mon   Spatial Data II      						            **HW 10 Due**
+
+22      Apr 05   Wed   Strings    					        14            
+
+23      Apr 10   Mon   HTML Data                 	  [rvest          **HW 11 Due**
+                                                    package] 				
+
+24      Apr 12   Wed   Text Mining I                                  
+
+25      Apr 17   Mon   Text Mining II                               **HW 12 Due**
+
+26      Apr 19   Wed   Network Data                        
+
+27      Apr 24   Mon   Project Presentations                        **HW 13 Due**
+
+28      Apr 26   Wed   Project Presentations
+--------------------------------------------------------------------------------
+
+
+[R4DS]: http://r4ds.had.co.nz
+[rvest package]: http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/
+[Intro]: lectures/01-Intro.pdf
+
+
+----
+
+
+<!---
+[Midterm Exam (pdf)](http://bama.ua.edu/~mdporter2/st597/exam/midterm.pdf)
+
+[Midterm Exam (R)](http://bama.ua.edu/~mdporter2/st597/exam/midterm.R)
+--->
+
+
+
