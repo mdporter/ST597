@@ -24,22 +24,23 @@ Class   Date     Day   Topic                        Reading          Notes
                        *No Class: MLK Jr Day* 
                        </font>   
         
-2       Jan 18   Wed   [R and RStudio]			        1; 2   		      **HW 1 Due**; 
+2       Jan 18   Wed   [R and RStudio]			        1; 2; 6		      **HW 1 Due**;<br>
                                                                     [salary.csv]
              
 3       Jan 23   Mon   [Data Visualization] I		    3.1-3.6         **HW 2 Due**
 
-4       Jan 25   Wed   [Data Visualization] II      3.7-3.10    
+4       Jan 25   Wed   [Data Visualization] II      3.7-3.10; 4    
        
-5       Jan 30   Mon   Data Transformation I	      5.1-5.5         **HW 3 Due**           
+5       Jan 30   Mon   [Data Transformation I]      5.1-5.5         **HW 3 Due**; <br>
+                                                                    [Logical and Relational Operators]
 
-6       Feb 01   Wed   Data Transformation II	      5.6-5.7
+6       Feb 01   Wed   Data Transformation II	      5.6-5.7; 8      [transform lab]
                    
 7       Feb 06   Mon   Data Visualization III       7               **HW 4 Due**
 
 8       Feb 08   Wed   Data Explore Challenge                   
   
-9       Feb 13   Mon   Special Guest: Joshua        4; 6; 8         **HW 5 Due**
+9       Feb 13   Mon   Special Guest: Joshua        Review 1-8      **HW 5 Due**
                        Jones from 
                        [Strategywise](
                        http://strategywise.com/)
@@ -101,12 +102,15 @@ Class   Date     Day   Topic                        Reading          Notes
 [Intro]: lectures/01-Intro.pdf
 [R and RStudio]: lectures/02-Rintro.pdf
 [Data Visualization]: lectures/03-dataviz.pdf
+[Data Transformation I]: lectures/04-transform.pdf
+
 
 <!--- Notes --->
 [salary.csv]: data/salary.csv
 [R4DS]: http://r4ds.had.co.nz
 [rvest package]: http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/
-
+[Logical and Relational Operators]: lectures/logic-sets-control.html
+[transform lab]: lectures/04-transform-lab.R
 
 ----
 
