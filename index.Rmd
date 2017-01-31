@@ -33,8 +33,10 @@ Class   Date     Day   Topic                        Reading          Notes
        
 5       Jan 30   Mon   [Data Transformation I]      5.1-5.5         **HW 3 Due**; <br>
                                                                     [Logical and Relational Operators]  
+                                                                    [transform lab]
 
-6       Feb 01   Wed   Data Transformation II	      5.6-5.7; 8      [transform lab]
+6       Feb 01   Wed   [Data Transformation II:     5.6-5.7; 8      [aggregate lab]
+                        aggregate]
                    
 7       Feb 06   Mon   Data Visualization III       7               **HW 4 Due**
 
@@ -103,7 +105,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [R and RStudio]: lectures/02-Rintro.pdf
 [Data Visualization]: lectures/03-dataviz.pdf
 [Data Transformation I]: lectures/04-transform.pdf
-
+[Data Transformation II: aggregate]: lectures/05-aggregate.pdf
 
 <!--- Notes --->
 [salary.csv]: data/salary.csv
@@ -111,6 +113,8 @@ Class   Date     Day   Topic                        Reading          Notes
 [rvest package]: http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/
 [Logical and Relational Operators]: lectures/logic-sets-control.html
 [transform lab]: lectures/04-transform-lab.R
+[aggregate lab]: lectures/05-aggregate-lab.R
+
 
 ----
 
