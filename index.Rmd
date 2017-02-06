@@ -38,7 +38,8 @@ Class   Date     Day   Topic                        Reading          Notes
 6       Feb 01   Wed   [Data Transformation II:     5.6-5.7; 8      [aggregate lab]
                         aggregate]
                    
-7       Feb 06   Mon   Data Visualization III       7               **HW 4 Due**
+7       Feb 06   Mon   [Data Visualization part 2]  7               **HW 4 Due**; <br>
+                                                                    [dataviz2 lab]
 
 8       Feb 08   Wed   Data Explore Challenge                   
   
@@ -106,6 +107,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Data Visualization]: lectures/03-dataviz.pdf
 [Data Transformation I]: lectures/04-transform.pdf
 [Data Transformation II: aggregate]: lectures/05-aggregate.pdf
+[Data Visualization part 2]: lectures/06-dataviz2.pdf
 
 <!--- Notes --->
 [salary.csv]: data/salary.csv
@@ -114,6 +116,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Logical and Relational Operators]: lectures/logic-sets-control.html
 [transform lab]: lectures/04-transform-lab.R
 [aggregate lab]: lectures/05-aggregate-lab.R
+[dataviz2 lab]: lectures/06-dataviz2-lab.R
 
 
 ----
