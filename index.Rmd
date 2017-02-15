@@ -41,17 +41,17 @@ Class   Date     Day   Topic                        Reading          Notes
 7       Feb 06   Mon   [Data Visualization part 2]  7               **HW 4 Due**; <br>
                                                                     [dataviz2 lab]
 
-8       Feb 08   Wed   Data Explore Challenge                   
+8       Feb 08   Wed   ~~Data Explore Challenge~~                   
   
 9       Feb 13   Mon   Special Guest: Joshua        Review 1-8      **HW 5 Due**
                        Jones from 
                        [Strategywise](
                        http://strategywise.com/)
                      
-10      Feb 15   Wed   R Basics I					          10; 
+10      Feb 15   Wed   [Data Explore Challenge]     10;             [data-explore.R]
                                                     20.1-20.4
 
-11      Feb 20   Mon   R Basics II                  20.5-20.7;      **HW 6 Due**
+11      Feb 20   Mon   R Basics                     20.5-20.7;      **HW 6 Due**
                                                     15         
         
 12      Feb 22   Wed   Data Mgmt Challenge                           
@@ -108,6 +108,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Data Transformation I]: lectures/04-transform.pdf
 [Data Transformation II: aggregate]: lectures/05-aggregate.pdf
 [Data Visualization part 2]: lectures/06-dataviz2.pdf
+[Data Explore Challenge]: lectures/07-dataexplore-challenge.html
 
 <!--- Notes --->
 [salary.csv]: data/salary.csv
@@ -117,6 +118,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [transform lab]: lectures/04-transform-lab.R
 [aggregate lab]: lectures/05-aggregate-lab.R
 [dataviz2 lab]: lectures/06-dataviz2-lab.R
+[data-explore.R]: lectures//07-dataexplore-challenge.R
 
 
 ----
