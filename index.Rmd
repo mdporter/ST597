@@ -27,9 +27,9 @@ Class   Date     Day   Topic                        Reading          Notes
 2       Jan 18   Wed   [R and RStudio]			        1; 2; 6		      **HW 1 Due**;<br>
                                                                     [salary.csv]
              
-3       Jan 23   Mon   [Data Visualization] I		    3.1-3.6         **HW 2 Due**
+3       Jan 23   Mon   [Data Visualization]         3.1-3.6         **HW 2 Due**
 
-4       Jan 25   Wed   [Data Visualization] II      3.7-3.10; 4    
+4       Jan 25   Wed   Data Visualization con\'t    3.7-3.10; 4    
        
 5       Jan 30   Mon   [Data Transformation I]      5.1-5.5         **HW 3 Due**; <br>
                                                                     [Logical and Relational Operators]  
@@ -51,10 +51,10 @@ Class   Date     Day   Topic                        Reading          Notes
 10      Feb 15   Wed   [Data Explore Challenge]     10;             [data-explore.R]
                                                     20.1-20.4
 
-11      Feb 20   Mon   R Basics                     20.5-20.7;      **HW 6 Due**
+11      Feb 20   Mon   [R Basics I]                 20.5-20.7;      **HW 6 Due**
                                                     15         
         
-12      Feb 22   Wed   Data Mgmt Challenge                           
+12      Feb 22   Wed   R Basics II                           
        
 13      Feb 27   Mon   Relational Data				      13	            **HW 7 Due**
 
@@ -109,6 +109,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Data Transformation II: aggregate]: lectures/05-aggregate.pdf
 [Data Visualization part 2]: lectures/06-dataviz2.pdf
 [Data Explore Challenge]: lectures/07-dataexplore-challenge.html
+[R Basics I]: lectures/08-rbasics.pdf
 
 <!--- Notes --->
 [salary.csv]: data/salary.csv
