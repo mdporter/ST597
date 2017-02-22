@@ -41,7 +41,8 @@ Class   Date     Day   Topic                        Reading          Notes
 7       Feb 06   Mon   [Data Visualization part 2]  7               **HW 4 Due**; <br>
                                                                     [dataviz2 lab]
 
-8       Feb 08   Wed   ~~Data Explore Challenge~~                   
+8       Feb 08   Wed   Data Visualization part 2,
+                        con\'t
   
 9       Feb 13   Mon   Special Guest: Joshua        Review 1-8      **HW 5 Due**
                        Jones from 
@@ -54,7 +55,7 @@ Class   Date     Day   Topic                        Reading          Notes
 11      Feb 20   Mon   [R Basics I]                 20.5-20.7;      **HW 6 Due**
                                                     15         
         
-12      Feb 22   Wed   R Basics II                           
+12      Feb 22   Wed   [R Basics II]                           
        
 13      Feb 27   Mon   Relational Data				      13	            **HW 7 Due**
 
@@ -110,6 +111,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Data Visualization part 2]: lectures/06-dataviz2.pdf
 [Data Explore Challenge]: lectures/07-dataexplore-challenge.html
 [R Basics I]: lectures/08-rbasics.pdf
+[R Basics II]: lectures/09-rbasics2.pdf
 
 <!--- Notes --->
 [salary.csv]: data/salary.csv
