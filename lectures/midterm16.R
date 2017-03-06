@@ -26,6 +26,8 @@
 #     readRDS(url("http://bama.ua.edu/~mdporter2/st597/data/cars.rds"))
 #-------------------------------------------------------------------------------
 
+# This will load two datasets into your environment: cars and salary
+load(url("https://github.com/mdporter/ST597/blob/master/data/cars.RData?raw=true"))
 
 
 #-------------------------------------------------------------------------------
@@ -33,6 +35,7 @@
 #    converting to a number (integer or numeric).
 #-------------------------------------------------------------------------------
 
+## We will not cover this material
 
 
 #-------------------------------------------------------------------------------
