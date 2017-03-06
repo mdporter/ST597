@@ -63,7 +63,8 @@ Class   Date     Day   Topic                        Reading          Notes
 14      Mar 01   Wed   Relational Data, con\'t      19; 
                                                     21.1-21.4
 
-15      Mar 06   Mon   Exam Review                                  **HW 8 Due**
+15      Mar 06   Mon   [Exam Review]                                **HW 8 Due**
+                                                                    [midterm 2106.R]
 
 16      Mar 08   Wed   Midterm Exam
                        
@@ -125,6 +126,10 @@ Class   Date     Day   Topic                        Reading          Notes
 [dataviz2 lab]: lectures/06-dataviz2-lab.R
 [data-explore.R]: lectures/07-dataexplore-challenge.R
 [relational lab]: lectures/10-relational-lab.R
+[Exam Review]: lectures/midterm16.pdf
+[midterm 2106.R]: lectures/midterm16.R
+
+
 
 ----
 
