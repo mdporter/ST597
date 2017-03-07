@@ -27,7 +27,9 @@
 #-------------------------------------------------------------------------------
 
 # This will load two datasets into your environment: cars and salary
-load(url("https://github.com/mdporter/ST597/blob/master/data/cars.RData?raw=true"))
+# load(url("https://github.com/mdporter/ST597/blob/master/data/cars.RData?raw=true"))
+load(url("https://github.com/mdporter/ST597/blob/master/data/cars.RData?raw=true", 
+         method="libcurl"))
 
 
 #-------------------------------------------------------------------------------
