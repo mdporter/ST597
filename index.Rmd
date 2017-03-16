@@ -76,9 +76,9 @@ Class   Date     Day   Topic                        Reading          Notes
                        *No Class: Spring Break* 
                        </font>  
 
-17      Mar 20   Mon   Data Import I                11.1-11.3
+17      Mar 20   Mon   [Data Import]                11.1-11.3
 
-18      Mar 22   Wed   Data Import II   			      11.4-11.6			
+18      Mar 22   Wed   Data Import, con\'t   			  11.4-11.6			
 
 19      Mar 27   Mon   Tidy Data                  	12              **HW 9 Due**      
 
@@ -115,7 +115,9 @@ Class   Date     Day   Topic                        Reading          Notes
 [R Basics I]: lectures/08-rbasics.pdf
 [R Basics II]: lectures/09-rbasics2.pdf
 [Relational Data]: lectures/10-relational.pdf
+[Data Import]: lectures/11-import.pdf
 
+   
 <!--- Notes --->
 [salary.csv]: data/salary.csv
 [R4DS]: http://r4ds.had.co.nz
@@ -134,11 +136,6 @@ Class   Date     Day   Topic                        Reading          Notes
 ----
 
 
-<!---
-[Midterm Exam (pdf)](http://bama.ua.edu/~mdporter2/st597/exam/midterm.pdf)
-
-[Midterm Exam (R)](http://bama.ua.edu/~mdporter2/st597/exam/midterm.R)
---->
 
 
 
