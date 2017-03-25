@@ -80,7 +80,9 @@ Class   Date     Day   Topic                        Reading          Notes
 
 18      Mar 22   Wed   Data Import, con\'t   			  11.4-11.6			
 
-19      Mar 27   Mon   Tidy Data                  	12              **HW 9 Due**      
+19      Mar 27   Mon   [Tidy Data]                	12              **HW 9 Due** <br>
+                                                                    [Tidy Data Paper];
+                                                                    [tidy lab]
 
 20      Mar 29   Wed   Spatial Data I     			
 
@@ -116,6 +118,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [R Basics II]: lectures/09-rbasics2.pdf
 [Relational Data]: lectures/10-relational.pdf
 [Data Import]: lectures/11-import.pdf
+[Tidy Data]: lectures/12-tidy.pdf
 
    
 <!--- Notes --->
@@ -130,7 +133,8 @@ Class   Date     Day   Topic                        Reading          Notes
 [relational lab]: lectures/10-relational-lab.R
 [Exam Review]: lectures/midterm16.pdf
 [midterm 2106.R]: lectures/midterm16.R
-
+[Tidy Data Paper]: http://www.jstatsoft.org/v59/i10/paper
+[tidy lab]: lectures/12-tidy-lab.R
 
 
 ----
