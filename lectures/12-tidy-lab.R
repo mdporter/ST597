@@ -1,5 +1,5 @@
 ###----------------------------------------------------------------------------
-## 12-lab.R 
+## 12-tidy-lab.R 
 ## In-class exercises
 ###----------------------------------------------------------------------------
 
@@ -31,6 +31,13 @@ library(tidyverse)
 # What needs to be done to calculate the rate? 
 # Hint: The info is split between two tables.  Would it help if each table 
 #          was in a different form?
+
+
+
+#--------------------------
+## Your Turn: gather()
+#--------------------------
+
 
 
 #--------------------------
