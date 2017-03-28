@@ -10,6 +10,10 @@
 <br>
 <br>
 
+### Project
+See the [project description](./projects.html)
+
+
 ### Homework Details
 All homework assignments are in [DataCamp](https://www.datacamp.com) in our class group. You will be sent an email invitation to join the group. This system will record your homework progress so there is nothing to turn in. 
 
