@@ -84,9 +84,9 @@ Class   Date     Day   Topic                        Reading          Notes
                                                                     [Tidy Data Paper];
                                                                     [tidy lab]
 
-20      Mar 29   Wed   [Spatial Data I]     			
+20      Mar 29   Wed   [Spatial Data]     			
 
-21      Apr 03   Mon   Spatial Data II      						            **HW 10 Due**
+21      Apr 03   Mon   Spatial Data, con\'t  						            **HW 10 Due**
 
 22      Apr 05   Wed   Strings    					        14            
 
@@ -120,7 +120,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Relational Data]: lectures/10-relational.pdf
 [Data Import]: lectures/11-import.pdf
 [Tidy Data]: lectures/12-tidy.pdf
-[Spatial Data I]: lectures/13-spatial.pdf
+[Spatial Data]: lectures/13-spatial.pdf
    
 <!--- Notes --->
 [salary.csv]: data/salary.csv
