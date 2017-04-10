@@ -88,16 +88,19 @@ Class   Date     Day   Topic                        Reading          Notes
 
 21      Apr 03   Mon   Spatial Data, con\'t  						            **HW 10 Due**
 
-22      Apr 05   Wed   [Strings]  					        14            
+22      Apr 05   Wed   [Strings]  					        14              No class: University closed for storms
 
-23      Apr 10   Mon   HTML Data                 	  [rvest          **HW 11 Due**
+23      Apr 10   Mon   ~~HTML Data~~             	  [rvest          **HW 11 Due**
                                                     package] 				
 
-24      Apr 12   Wed   Text Mining I                                  
+24      Apr 12   Wed   Linear Regression            23
+                       ~~Text Mining I~~                                  
 
-25      Apr 17   Mon   Text Mining II                               **HW 12 Due**
+25      Apr 17   Mon   HTML Data                    [rvest          **HW 12 Due**
+                       ~~Text Mining II~~           package] 				
 
-26      Apr 19   Wed   Network Data                        
+26      Apr 19   Wed   Text Mining
+                       ~~Network Data~~                        
 
 27      Apr 24   Mon   Project Presentations                        **HW 13 Due** <br>
                                                                     [project description](./projects.html)
