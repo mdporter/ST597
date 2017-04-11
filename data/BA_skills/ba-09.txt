@@ -1,0 +1,11 @@
+I have seen two trends occurring 1) Explosion of # of Business Analytics Programs and 2) Graduates coming out of those programs are underwhelming.
+
+The gap is many curriculums are taking their MBA program and adding a little analytics. So it is way too heavy on soft skills and they almost ignore understanding of analytical skills. An embarrassing example is the first question (after tell me about yourself) that I ask every candidate is tell me what Standard Deviation is and why it is important? About 1/3rd of candidates miss this question and frankly I write off the candidate and usually the entire program at this point. They may be able to give me the mathematical formula, but have no idea why it is important. They don’t seem to really understand any method. The counter balance is I don’t expect a Master’s BA program to be Data Scientists as that is too computer science heavy. They should have an understanding of R or SAS and be able to implement analytics.
+
+To be specific, I would expect a graduate from a Master’s Degree in analytics program would have a pretty good understanding of basic analytical techniques like Monte Carlo simulation, optimization, clustering, machine learning concepts, regression and general forecasting techniques along with a basic (or appropriate) level of statistics.
+
+Also I know the industry (including P&G) talks a lot about visualization (e.g. Tableau, Spotfire). These are easy tools to learn and focus too much on soft skills. I would want instruction time to be spent learning analytics versus creating pretty pictures. The industry is moving away from descriptive analytics into Predictive and Prescriptive and that is where analytics can provide the most value.
+
+Finally, a P&G centric need is that a high percentage of US Citizens is critical. I see programs including the ones in my own backyard that have 90%+ foreigners who require sponsorship. It is too hard to invest in recruiting the school for a pool of 5-10 people.
+
+Director - Business Intelligence & Analytics Services
