@@ -1,0 +1,17 @@
+My brief thoughts on some topics/trends/technologies that would make sense for you to address are below:
+
+•	Move away from Excel. Give exposure to multiple computer programming languages
+
+o	Database or query languages like SQL would be a must
+
+o	Statistical programming, like R or Python would also be a must (You could potentially consider making the R programming Coursera course a requirement before starting the program)
+
+•	Classes that focus on practical projects working with real-world data. Taking a project from start-to-finish (gathering/cleaning data, testing different modeling techniques, communicating/visualizing the results)
+
+o	Potentially work with companies in the region, so the students get exposure to business problems
+
+•	Communication is very crucial within this industry, simply because most executives do not have the time or technical acumen to truly sit down and understand the entire analytical process. Thus, I would stress the portion of delivering and visualizing results to executives through presentations, proposals and things of that nature.
+
+I hope this helps a bit. I would be more than happy to expand on this or answer any other questions that you may have.
+
+Director, Basketball Analytics
