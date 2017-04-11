@@ -1,0 +1,5 @@
+My very simple take: Programming in R/Python both for data analysis and for visualization. Equally important more or less in my view.
+
+Beyond that, hands-on data set analysis. Teach people to look at data and decide the best approach themselves rather than telling them which approach to take and grading on their ability to do so.
+
+Manager of Analytics
