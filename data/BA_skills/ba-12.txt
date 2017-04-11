@@ -1,0 +1,3 @@
+The biggest thing that comes to mind that I think most analytic programs are missing is the salesmanship component: how do you convince someone that your analysis matters? How do you be a change agent that actually gets a model or analysis you did implemented into everyday use? I think we're all aware of analysis that goes into a black hole and leads to nothing, so there should be more emphasis on how to sell in your analysis.
+
+Director, Customer Analytics
