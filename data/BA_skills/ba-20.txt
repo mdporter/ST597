@@ -1,0 +1,39 @@
+Angels job
+
+The Los Angeles Angels are hiring an experienced software developer to build and maintain an aggregated player information and tracking system to help in the decision making process of the Baseball Operations Department.
+
+Responsibilities:
+
+Drawing from multiple data sources, design and manage a single player information and tracking system.
+
+Manage receipt, storage, merging, and formatting of multiple data sources (flat files, APIs, database pulls, etc.)  Identify, diagnose and resolve data quality issues.
+
+Develop web-based front-ends to display data at multiple levels of detail.
+
+Implement and optimize advanced algorithms for player projection from software prototypes.
+
+Continually work with baseball operations staff to identify features and areas of improvement within the player information system to facilitate a user-friendly research tool.
+
+Integrate new information sources and multimedia displays into player information and tracking system.
+
+Communicate results to appropriate staff members through presentations, written reports, and tools.
+
+Other duties as identified by the Director of Quantitative Analysis.
+
+Qualifications:
+
+Experience with software development, including requirements definition, design, development, testing, implementation, and iterative improvement.
+
+Expert level knowledge of SQL and database optimization techniques.
+
+Proficiency with front-end web development technologies (including HTML5, CSS, JavaScript and JavaScript frameworks) Strong understanding of desktop, laptop and mobile UI/UX design concepts and demonstrated ability to apply responsive design techniques. Particularly focused on representing large data sets in easy to consume user interfaces.
+
+Experience designing ETL (extract, transform, load) processes to integrate multiple data sources, formats, and media into a single application.
+
+Management of multi-tiered deployment environment (development, staging, production).
+
+Working familiarity with advanced statistical concepts, particularly those relevant to sabermetric player projection techniques that include experience implementing statistical calculations, derivations, and graphical representations into software applications (experience with Python and Matlab a plus).
+
+Education:
+
+Bachelor’s degree (B. A.) in Computer Science, Information Systems, or related field from four-year college or university; and five years related experience and/or training; or equivalent combination of education and experience.
