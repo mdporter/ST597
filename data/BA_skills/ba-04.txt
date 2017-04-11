@@ -1,0 +1,13 @@
+I'll admit that I haven't been as up to speed on the courses offered in such a specialization since I left college nearly 8 years ago, so I can't really speak to what other schools/programs have already or might be missing. If you're just generally asking for skills I think are important or look for in candidates that can be learned in school, here are some:
+
+•	Computer programming skills. Languages we use frequently on the job are SQL, R, and Python. The specific languages themselves aren’t what matters most, but having experience getting data out of/into databases, being able to program effectively and efficiently (e.g. simulations, logic, things we deal with in our work), and similar computer science skills in a couple languages ends up being very important.
+
+•	Knowledge of various statistical procedures and how to properly use, interpret, and implement them given the various types of data. This includes a lot of the classical statistics stuff like regression and linear modeling, Bayesian methods that can be useful in various settings, and some of the “newer” machine learning methods that rely on computers to do some of the work.
+
+•	“Big Data” skills. Everyone has a different definition of what constitutes “big”, but data sets certainly aren’t getting any smaller, so these will be increasingly important. I need to get more familiar with this myself.
+
+•	Ability to communicate results to a non-statistical audience. This is really big at ESPN when most people have very limited desire to hear about math, but I assume it’s big in most other industries, too. This is easiest to learn via experience, but I assume it could be taught/practiced somewhat, too.
+
+I think a general structure where you take some classes and then finish with a capstone project that applies many of the skills you learned to a “real-world” project probably makes sense. You can obviously have real-world applications in a lot of the classes, too, as there are seemingly so many different areas where these skills are valued.
+
+Associate Director of Production Analytics
