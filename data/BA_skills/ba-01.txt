@@ -1,0 +1,7 @@
+Obviously, I know more about basketball analytics than analytics in other fields, so I’ll stick to that as much as I can. For us, knowledge of programming languages is becoming more and more important. Basketball analytics has really gained traction over the last few years based on the availability of SportVU data (optical data available in every NBA arena) to the point where there’s almost nothing you cannot measure. The teams that are ahead of the pack are able to work with that data quickly and efficiently. NBA does some data mining for us and gives us various reports, but some teams have their in-house programmers who are able to do more with that data.
+
+Other than that, I think presentation is huge. I myself worked in business consulting for 2 years before joining the Nuggets and I realize that sometimes the information is fairly simplistic – it’s about how you present it, both from a graphical point of view and from the presentation point of view. Nothing kills good work quicker than a boring and disorganized presentation.
+
+Those are probably my most important factors. 
+
+Director of Basketball Analytics
