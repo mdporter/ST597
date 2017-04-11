@@ -1,0 +1,7 @@
+I think most of the programs now are doing a great job building out soft skills – understanding the business problem, talking to stakeholders, managing projects, etc. I am sure you know all that and I am not going to go into details.
+
+One thing that I would emphasize is understanding the level of complexity that is sometimes required in real problems. What I see is an alarming tendency to reduce all problems to relatively simple analytical concepts (which often works great and is all that is needed). However, when that fails oftentimes the problem is declared “too hard” or a simple solution is declared “best possible”. In those cases analysts do not recognize there are other, more advanced, methodologies, because either they are not familiar with them, not comfortable to use them, or not sure how to explain them to the stakeholders.
+
+Hope this helps. I’ll be happy to discuss more.
+
+Senior Operations Research Scientist
