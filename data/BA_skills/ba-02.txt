@@ -1,0 +1,17 @@
+Below is my feedback. Keep in mind my feedback is mostly coming from the sports analytics professional world, as that is the only industry I've ever worked in. From second-hand knowledge I know the tools and skills required can be different across industries.
+
+But with that caveat, here are my thoughts in order of importance in the sports world (which as I mentioned, may be different than other areas):
+
+a)	While model building, statistical inference, etc is probably still the most important skill, writing simple to intermediate programs is becoming more and more important for us. R and Python are the most used programming languages in the analytics/data science field. Both being open source with tons of online documentation plays a big role in their strong market share. Both have strong statistical libraries/packages that can do everything you will need on the probability/modeling side (R might be a little stronger than Python there). Both have strong visualization packages. Both link well with other necessary tools (Oracle/MySQL databases, spreadsheets, etc). R would probably be my choice for the standard programming language, only because it specializes a bit more on the statistical side, but having familiarity with both is ideal.
+
+b)	Learn databases and SQL. The focus should be on querying and getting information out of databases. Becoming proficient at writing SQL queries is key. Learning how to setup your own databases and the theory that goes behind that is important too, but not as much as querying, as most of the time a company will have DBAs or back-end engineers that do that work for the analytics group.
+
+c)	Learn how to tell stories with data through data visualization. This is important not only for when you need to share results internally and externally, but also for beginning and intermediate steps in the model-building process. R (or Python) both have good graphics packages that can do a lot of that. Both also have packages that link to other data viz tools like plot.ly, Tableau and D3.
+
+d)	Machine Learning. Concepts like clustering, neural networks and decision trees are good topics to cover in machine learning. I have heard other industries might use them a little more than we do in sports. Both R and Python have good tools to do this.
+
+I hope this helps. Keep me up to date on the process, I'm very interested in hearing more. I teach a class on sports analytics in Quinnipiac University's sports journalism program as an adjunct instructor - and love it. I like hearing about more and more of these types of classes/programs popping up.
+
+Related, if you're interested in having an elective Sports Analytics class in the program, I'd love to teach it if you're open to online courses.
+
+Director of Analytics
