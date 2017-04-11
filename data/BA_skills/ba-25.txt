@@ -1,0 +1,15 @@
+The set of skills that are looked for these days in high tech industry basically stayed the same for the last 10 years and will probably stay the same for another 50, with small variations:
+
+1.	coding skills (Java, C/C++,Python, Hadoop/map-reduce)
+
+2.	Math skills, algorithm design skills, Machine Learning (this is a new one)
+
+3.	ability to work with data, even trivial problems become intractable when the amount of data is huge
+
+But in general raw intelligence that comes from years of studying hard sciences can replace all of these. My education was in pure math, and I picked up the rest along the way. 
+
+In general in tech soft skills are frowned upon so I would not waste students’ time with corresponding courses. I hope that helps.
+
+Director of Research/Principal Research Scientist
+
+Yahoo Research
