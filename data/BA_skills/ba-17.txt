@@ -1,0 +1,9 @@
+As analytics is such a broad-scoped multi-discipline area, anything I say will reflect my limitation and possibly biased perspective. With that understanding out of the way, I do in fact want to focus more the biased part of my perspective and leave the shared part to you or others :)
+
+To me, Analytics is fundamentally a practical discipline - closer to engineering than science. One implication is that skills is more important than theoretical knowledge. This point is often missed by student, school programs and even by companies :)
+
+Analytics in practice is more about solving problems than following a standard process. We often find that the core quality we look for from analytics people can simply be whether the person is analytical (an analyst at heart). This aspect is quite similar to consultancy, and I suggest case-study as away of teaching this skills as used in B-School.
+
+Topic wise, I think data processing and data handling skills worth to emphasize; SQL in particular is very practical in industry, but less practiced in school.
+
+Vice President, Analytics Operations
