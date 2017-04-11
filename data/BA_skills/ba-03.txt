@@ -1,0 +1,17 @@
+I will not list any requirements from statistics perspective (e.g., must be able to use R to manipulate truly large data-sets - like merging and sorting a few data sets with 100 million rows and a few thousand columns, and perform F test, ANOVA, correlation and OLS regression).
+
+From a general analytics industry perspective, a student coming out of that program should
+
+- Know how to merge and clean data, as well as impute missing data in R
+
+- Know GLM very well, also know other machine learning methods (GBMs, SVMs, Random Forests, Bootstrap etc.)
+
+- Know at least one piece of visualization tool (Tableau, say) to visualize huge data in memory
+
+- Know what usual variables are required in marketing and risk modeling (they are industry dependent, but maybe assign one case study for a specific industry so they know what response/target variables vs. what predictors are possibly selected)
+
+- Know big data concepts - platforms and potential use case, know Python (future trend)
+
+- Must learn one communication class - how to present technical materials to non-technical audience, this is for work-related skills (for engaging business clients)
+
+Analytics Officer
