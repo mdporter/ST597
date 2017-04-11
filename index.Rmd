@@ -93,10 +93,10 @@ Class   Date     Day   Topic                        Reading          Notes
 23      Apr 10   Mon   ~~HTML Data~~             	  [rvest          **HW 11 Due**
                                                     package] 				
 
-24      Apr 12   Wed   Linear Regression            23
+24      Apr 12   Wed   [Linear Regression]          23
                        ~~Text Mining I~~                                  
 
-25      Apr 17   Mon   HTML Data                    [rvest          **HW 12 Due**
+25      Apr 17   Mon   [HTML Data]                  [rvest          **HW 12 Due**
                        ~~Text Mining II~~           package] 				
 
 26      Apr 19   Wed   Text Mining
@@ -125,6 +125,8 @@ Class   Date     Day   Topic                        Reading          Notes
 [Tidy Data]: lectures/12-tidy.pdf
 [Spatial Data]: lectures/13-spatial.pdf
 [Strings]: lectures/14-strings.pdf
+[Linear Regression]: lectures/16-regression.pdf   
+[HTML Data]: lectures/15-webdata.pdf
    
 <!--- Notes --->
 [salary.csv]: data/salary.csv
