@@ -1,0 +1,39 @@
+For the topic of how to structure a master’s program, here is a summary of our thoughts as it relates to our data science group which is where I believe you would like to place students:
+
+Overall there are 4 key points on how to structure a masters in analytics program from our perspective.
+
+1)	This is an industry with a massive labor shortage. Programs are popping up all over the country to meet the need, and pretty much all of them have high job placement because supply and demand are so out of sync.
+
+a.	Even schools with foreign national students needing sponsorship as their majority are placing at high rates.
+
+b.	Net: when benchmarking against other colleges be careful looking at placement rates – they are likely not an indication of program quality in the long term.
+
+2)	There are two ways to do an analytics program, breadth or depth, and we prefer depth even if it is in the wrong spots.
+
+a.	NCState is an example of breadth. For example they have a class that includes optimization, text mining, and machine learning in one semester. To do those right each of those is at least 2 full classes solely on that topic.
+
+b.	UChicago is an example of depth and a model program as far as we are concerned. We want depth, even if it isn’t depth in the right area.
+
+c.	When they work here they will have to get deep, so we need evidence that they can get deep. If all they’ve had is topical coverage we have no evidence they can get deep. If they have had to get deep in anything we are confident we can get them deep in the right things once they come here.
+
+3)	Adding onto depth, it doesn’t have to be in the right areas, but we do have preferred areas at this point in time. They are Machine Learning/AI/Deep Learning (it could be argued these are all the same thing)
+
+a.	These are probably 3-5 classes worth of topics. There are also some prerequisites for these which are linear algebra and Markov processes.
+
+b.	Specific topics for these classes would include things like “Deep neural networks, map reduce or spark (cover big data) on top of what is likely items they would already have (logistic/linear regression, decision tree, random forest, …). Add some work on feature selection and reduction.”
+
+4)	Capstone projects are a necessity, not a value add.
+
+a.	Most programs are doing them with external companies
+
+b.	Doing it with an external company is a necessity. You get a level of complexity in the project that simply can’t be matched by a made up/internal scenario.
+
+c.	It shows if these people can actually work on a team, which is often a difficulty for new grads
+
+d.	It is a very good way to sort people out in an interview. When they talk about their projects it becomes very easy to know who actually contributed and who piggybacked, who is passionate about problems/the work,  who can actually apply what they’ve learned, etc, all critical in an interview
+
+e.	Companies are not having to pay for these. At most companies pay for out of pocket expenses like flying someone up to present, but we aren’t paying the school for the project.
+
+Application Manager
+
+Procter & Gamble
