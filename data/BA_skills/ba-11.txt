@@ -1,0 +1,27 @@
+Some quick high level thoughts below:
+
+Topics:
+
+How to structure an analysis to fit the problem
+
+How to design a proper test, and interpret a meaningful difference from noise
+
+How to re frame a question to better answer what an exec posed How to use data to tell a story
+
+How to deal with dirty data, unclear a/b test results, and counter intuitive results
+
+A day in the life/Analysis jobs are not building regression models all day. Lots of data prep, iterative analysis. How to edit analysis down to what is most important. Quality over quantity.
+
+Best practices in data visualization.
+
+Business is not academics, how to follow the 80/20 rule.
+
+Basics of IT integration, what is an API, how does it work. Cookie tracking, Technology behind different popular algo's, etc.
+
+Trends:
+
+Machine learning /Artificial intelligence
+
+How to teach yourself code. The days when an analyst only needed to know one tool (SAS/SPSS) are over. Time to learn a new code language every 2-3yrs.
+
+Vice President of Customer Insight and Analytics
