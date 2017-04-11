@@ -1,0 +1,23 @@
+I would be more than happy to share my opinion from a media and entertainment industry perspective.
+
+By way of perspective, I led marketing analytics for the cable networks group at the Disney-ABC Television Group and CRM/game analytics for two video game companies prior to Golden State.
+
+In terms of the content that must be covered, everything we do falls into three buckets: 1) analysis 2) insight 3) action. My coursework did not bring the analysis back to one simple business action (such as, increase marketing spend because each dollar returns two and we are above our target return).
+
+To perform this sort of analysis, we use SQL, R, Tableau and Excel (macros+). We have a hard time sourcing candidates with intermediary SQL, SAS or R skills (we use R to rank leads based on data from multiple sources). Using these systems independently is great, but we need to connect them as well (i.e. report sponsor profitability and remaining inventory in Tableau from Salesforce via a SQL connection). Additionally, my need for people who have experience with Spark and Python is increasing as well.
+
+The tools used in the analysis are just a means to framing and answering revenue generating questions.
+
+1.	Should we open doors 30 minutes early (how will we define success)?
+
+2.	Who should we target with new merchandise (based on historical sales)?
+
+3.	Is the in-arena distribution of season ticket holders optimal (based on section, if not, who should we offer a move to and why)?
+
+4.	What leads should we call first (ranking problem)?
+
+In the near future, data will flow like a video telling a continuous customer story. We can see concessions transactions spike before tipoff and at halftime but as these transactions plummet during the first half, mobile ordering and delivery picks up (which is intuitive). Then it’s a matter of funneling orders in real-time to the right concession stands to minimize delivery times.
+
+Within the video game space, we would leverage machine learning algorithms to execute real-time promotions of digital goods based on the purchase of a complimentary item. This effort was the single greatest incremental increase to our average revenue per user by day and month.
+
+Director, Business Analytics & Strategy
