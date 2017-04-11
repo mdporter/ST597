@@ -1,0 +1,19 @@
+1.)	SQL - designing and structured DB (using Postgres bc free)
+
+2.)	Acquiring data - web scraping (API's, JSON,, etc)
+
+3.)	Data wrangling/cleaning
+
+4.)	Exploratory Data Analysis (EDA)
+
+5.)	Modeling
+
+6.)	Visualizations (theory/best practices, stand alone, inter-active, dashboards)
+
+7.)	Communicating with data - presentation skills
+
+8.)	technical tools used throughout - SQL + R + Python
+
+That should be a great start and give anyone a firm grasp on all the necessary skills.
+
+Manager of Hockey Analytics
