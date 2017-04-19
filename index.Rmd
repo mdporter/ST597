@@ -99,7 +99,7 @@ Class   Date     Day   Topic                        Reading          Notes
 25      Apr 17   Mon   [HTML Data]                  [rvest          **HW 12 Due**
                        ~~Text Mining II~~           package] 				
 
-26      Apr 19   Wed   Text Mining
+26      Apr 19   Wed   [Text Mining]
                        ~~Network Data~~                        
 
 27      Apr 24   Mon   Project Presentations                        **HW 13 Due** <br>
@@ -127,6 +127,7 @@ Class   Date     Day   Topic                        Reading          Notes
 [Strings]: lectures/14-strings.pdf
 [Linear Regression]: lectures/16-regression.pdf   
 [HTML Data]: lectures/15-webdata.pdf
+[Text Mining]: lectures/17-wordcloud.pdf
    
 <!--- Notes --->
 [salary.csv]: data/salary.csv
