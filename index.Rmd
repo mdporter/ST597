@@ -105,7 +105,7 @@ Class   Date     Day   Topic                        Reading          Notes
 27      Apr 24   Mon   Project Presentations                        **HW 13 Due** <br>
                                                                     [project description](./projects.html)
 
-28      Apr 26   Wed   Project Presentations
+28      Apr 26   Wed   Project Presentations                        [Peer Assessment form](docs/PeerEval.doc)
 --------------------------------------------------------------------------------
 
 
